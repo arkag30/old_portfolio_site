@@ -1,0 +1,106 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Medium Length Professional CV
+% LaTeX Template
+% Version 2.0 (8/5/13)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Trey Hunner (http://www.treyhunner.com/)
+%
+% Important note:
+% This template requires the resume.cls file to be in the same directory as the
+% .tex file. The resume.cls file provides the resume style used for structuring the
+% document.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%   PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass{resume} % Use the custom resume.cls style
+\usepackage[left=0.7in,top=0.4in,right=0.7in,bottom=0.5in]{geometry} % Document margins
+
+%----------------------------------------------------------------------------------------
+%   DOCUMENT START
+%----------------------------------------------------------------------------------------
+\name{Arka Ghosh} % Your name
+\address{(+91)~$\cdot$~8100131881 \\ \url{arkag30@gmail.com} \\ \href{arkag30.github.io} \\ www.linkedin.com/in/arkag30/} % Your phone number and email
+\begin{document}
+\title{Arka's Resume}
+%----------------------------------------------------------------------------------------
+%   EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Education}
+
+\begin{rSubsection}{Asutosh College, University of Calcutta}{2019 - Present}{B.Sc. Computer Science }{8.501 CGPA, Upto Sem III}
+%\vspace{-.1cm}
+\vspace{-.65cm}
+\item[]
+\end{rSubsection}
+\begin{rSubsection}{Kalyani Public School}{2017 - 2019}{Higher Secondary Education CBSE }{91\%}
+%\vspace{-.1cm}
+\vspace{-.65cm}
+\item[]
+\end{rSubsection}
+\begin{rSubsection}{St. Claret School}{2007 - 2017}{Secondary Education ICSE }{91\%}
+%\vspace{-.1cm}
+\vspace{-.65cm}
+\item[]
+\end{rSubsection}
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%   Achievement and certification SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Achievements and Certifications}
+\begin{rSubsection}{Guinness Book Of World Record}{2021}{AI for India}{}
+\item Participated in the World Record Winning event AI-for-India organized by GUVI Geek.
+\end{rSubsection}
+\begin{rSubsection}{IIT Madras Certified Python Course}{2021}{IIT Madras}{}
+\item Completed an in detailed course on python programming under the distance learning by IIT Madras.
+\end{rSubsection}
+\begin{rSubsection}{Cybersecurity and Ethical Hacking Course}{2021}{GUVI GEEK}{}
+\item Cyber Security and Ethical Hacking for Beginners and Advanced from GUVI Geek.
+\end{rSubsection}
+%\begin{rSubsection}{Inter School Band Competition}{2017}{Auxi-Aura}{}
+%\item Second Runner Up in the Auxi Aura 2017 inter school band competition.
+%\end{rSubsection}
+\begin{rSubsection}{All Bengal Drawing Competition}{2010}{WB Government}{}
+\item Achieved 7th position in the all bengal drawing competition.
+\end{rSubsection}
+\end{rSection}
+%----------------------------------------------------------------------------------------
+%   Technical Experience 
+%----------------------------------------------------------------------------------------
+
+
+\begin{rSection}{Projects}
+\begin{rSubsection}{Technical Project:}{}{}{}
+\item Created a OWASP Juice Shop and found 50+ vulnerabilities using Kali Linux, Burp suite, etc.
+\item Created a News Website and hosted it with github's static web hosting.
+\item Created the arcade snake game and Ping Pong Game using Python(Pygame PIP).
+\end{rSubsection}
+\begin{rSubsection}{Technical Writings:}{}{}{}
+\item I write articles related to cybersecurity online. Links to my articles are stated below:
+\item \url{https://arkag30.medium.com/}
+\item \url{https://www.researchgate.net/profile/Arka-Ghosh-13/savedlist}
+\end{rSubsection}
+\end{rSection}
+
+\begin{rSection}{Skills}
+\begin{rSubsection}{Technical Skills}{}{}{}
+\item C, C++, Python, Java, HTML, CSS, GIT, Kali Linux, MySQL, Burp Suite
+\end{rSubsection}
+\begin{rSubsection}{Other Skills and Hobbies}{}{}{}
+\item Guitar, Ukulele, Harmonica, Painting, Abacus(Level 8) 
+\end{rSubsection}
+\end{rSection}
+
+\begin{rSection}{}
+\end{rSection}
+\end{document}
